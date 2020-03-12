@@ -1,8 +1,8 @@
 "# zerotohero" 
 
-# Lesson 14
+# Lesson 1
 * **Knowledge** : *Array, algorithm*
-* **Deadline**: *06:00 MM Friday 13th March 2019*
+* **Deadline L1.js**: *06:00 MM Friday 13th March 2019*
 * **Fored Standards**:
   - Get latest code from **master** branch
   - Code in L1 folder
@@ -12,7 +12,6 @@
   - Always create a feature with format : **feature/L14-name-member**
   - Pull request title is **L1 Finish**
   - Pull request body is link screenshot your result
-  - All code only in L1.dart
 
 * **Requirements** : 
   - Create a function name is **mutateString** have one agrument of a string and result return is a string. 
