@@ -2,14 +2,14 @@
 
 # Lesson 1
 * **Knowledge** : *Array, algorithm*
-* **Deadline L1.js**: *06:00 MM Friday 13th March 2019*
+* **Deadline L1.js**: *...*
 * **Fored Standards**:
   - Get latest code from **master** branch
   - Code in L1 folder
     - L1.js
     - L1.cs
     - L1.dart
-  - Always create a feature with format : **feature/L14-name-member**
+  - Always create a feature with format : **feature/L1-name-member**
   - Pull request title is **L1 Finish**
   - Pull request body is link screenshot your result
 
