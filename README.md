@@ -47,13 +47,13 @@
     => Danh sách các số thiếu : [1236, 1238, 1240]
       ```js
       
-      function findMissNumbers(max, min, array){
+      function findMissedNumbers(max, min, array){
           // code to here
       }
-      
+
       // call function 
       let minValue = 1234, maxValues = 1240, arrayNumbers = [1236, 1238, 1240]
-      var numbers = findMissNumbers(minValue, maxValues, arrayNumbers)
+      var numbers = findMissedNumbers(minValue, maxValues, arrayNumbers)
       console.log(numbers) // output is [1236, 1238, 1240]
       ```
   - Code by three programming language (Js, C#, Dart)
